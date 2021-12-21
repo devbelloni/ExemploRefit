@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5kT0jA+pq1zj1XKfUzGp+5DFnYi+ZYv6CVJBwbpxQcHQAP/xAojnK449qYQmRvSyeSxRhil3MZ0DQ0kSlw7lg==",
+  "success": true,
+  "projectFilePath": "D:\\PROGRAMAÇÃO\\C#\\ws-vs2019\\ExemploRefit\\ExemploRefit\\ExemploRefit\\ExemploRefit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maluco\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\maluco\\.nuget\\packages\\refit\\6.1.15\\refit.6.1.15.nupkg.sha512",
+    "C:\\Users\\maluco\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
+    "C:\\Users\\maluco\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\maluco\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\maluco\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
